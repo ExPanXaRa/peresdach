@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="272.0" prefWidth="758.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="32.0" layoutY="33.0" text="Расписание уборки" />
+      <Text layoutX="29.0" layoutY="82.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Понедельник - 1 этаж 9:00 - 11:00, 2 этаж 11:01 - 12:00, 3 этаж 12:01 - 14:00, санитарная 14:01 - 18:00" wrappingWidth="699.7367362976074" />
+      <Text layoutX="29.0" layoutY="113.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Вторник - 1 этаж 9:00 - 11:00, 2 этаж 11:01 - 12:00, 3 этаж 12:01 - 13:00, санитарная 13:01 - 18:00" wrappingWidth="699.7367362976074" />
+      <Text layoutX="29.0" layoutY="149.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Среда - 1 этаж 10:00 - 11:00, 2 этаж 11:01 - 11:30, 3 этаж 11:31 - 14:00, санитарная 14:01 - 18:00" wrappingWidth="699.7367362976074" />
+      <Text layoutX="29.0" layoutY="185.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Четверг - 1 этаж 12:00 - 12:30, 2 этаж 12:31 - 13:00, 3 этаж 13:01 - 14:00, санитарная 14:01 - 15:00" wrappingWidth="699.7367362976074" />
+      <Text layoutX="29.0" layoutY="217.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Пятница - 1 этаж 9:00 - 11:00, 2 этаж 11:01 - 12:00, 3 этаж 12:01 - 13:00, санитарная 13:01 - 18:00" wrappingWidth="699.7367362976074" />
+      <Text layoutX="29.0" layoutY="254.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Суббота, Воскресенье - выходной" wrappingWidth="699.7367362976074" />
+   </children>
+</AnchorPane>
